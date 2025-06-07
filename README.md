@@ -1,6 +1,6 @@
 # Homebrew Installer
 
-A simple repository to help you download and install [Homebrew](https://brew.sh), the missing package manager for macOS and Linux.
+A simple repository to help you download and install Homebrew the missing package manager for macOS and Linux.
 
 ## 📦 What is Homebrew?
 
